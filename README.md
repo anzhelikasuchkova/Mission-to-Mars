@@ -4,7 +4,7 @@
 
 The project includes the following files:
 
-scrape_mars.py: This file contains the function to scrape the data from the websites and store it in a dictionary.
+Mission_to_Mars.py: This file contains the function to scrape the data from the websites and store it in a dictionary.
 
 app.py: This file contains the Flask web application that renders an HTML page with the scraped data.
 
